@@ -4,16 +4,6 @@ A web-based application built using **Flask (Python)** and **MySQL** to reduce f
 
 ---
 
-## 🌐 Live Demo (Local)
-
-Run the project and open in browser:
-
-```
-http://127.0.0.1:5000
-```
-
----
-
 ## 🚀 Features
 
 ### 👑 Admin
